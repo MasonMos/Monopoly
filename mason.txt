@@ -1,0 +1,9 @@
+Start,50
+Boardwalk Ave,10
+Baltic Ave,20
+St. Charles Place,40
+Bow Street,10
+Fleet Street,25
+Oxford Street,40
+Park Lane,20
+Electric Company,5
